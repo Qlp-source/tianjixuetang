@@ -1,5 +1,30 @@
 # tianjixuetang
 天机学堂 springcloud 微服务
+功能点：
+课程分类
+课程管理
+视频管理(腾讯云)
+题目管理
+优惠劵
+问答管理
+笔记管理
+学员管理
+教师管理
+后台用户管理
+订单管理
+退款管理
+购物车管理
+订单管理
+抢购优惠劵
+学习视频章节课程
+做笔记
+提交问答
+练习考试管理
+积分签到
+个人信息管理
 
 
-bilibili ： https://www.bilibili.com/video/BV1vu4y1C7yH/?spm_id_from=333.337.search-card.all.click&vd_source=72354ed8595375539286d955e6e456d6
+视频介绍地址：http://114.132.175.170:8081/qlpfile/tianji.mp4
+
+q 2856309352
+
