@@ -24,7 +24,7 @@
 个人信息管理
 
 
-视频介绍地址：http://114.132.175.170:8081/qlpfile/tianji.mp4
+视频介绍地址：http://qlpqlp.top:8081/qlpfile/tianji.mp4
 
 q 2856309352
 
